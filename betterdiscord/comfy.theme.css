@@ -7,7 +7,7 @@
 * @donate https://ko-fi.com/nyria
 */
 
-@import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
+@import "https://hinryd.github.io/comfier-theme/betterdiscord/main.css";
 
 /* ═══════『 ⚠️・Important tips 』═══════
 *
@@ -129,6 +129,9 @@
 *   Set it to "block" if you still want it */
 
 --discord-logo: none;
+
+--accent: 37, 172, 232;
+--home-image: url('https://i.imgur.com/233d55Y.gif');
 
 }
  
