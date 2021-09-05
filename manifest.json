@@ -1,9 +1,9 @@
 {
     "icon": "assets/icon.png",
-    "name": "Comfy",
+    "name": "comfier",
     "description": "Stay comfy while talking to your friends",
-    "version": "2.0",
-    "author": "Nyria#3863",
+    "version": "1.0",
+    "author": "Hinry#5401",
     "theme": "betterdiscord/comfy.theme.css",
     "consent": "false",
     "license": "GNU GPL"
