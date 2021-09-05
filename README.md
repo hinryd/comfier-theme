@@ -1,33 +1,17 @@
-![Banner](https://nyri4.github.io/Comfy/assets/banner.png)
---- 
+# comfier
 
-![Preview](https://nyri4.github.io/Comfy/assets/preview.png)
+This is a [Comfy](https://github.com/NYRI4/Comfy) fork
 
-## 📥 Installation
+## 📥 Installation for BetterDiscord
 
-### Powercord & Vizality
-
-```sh
-git clone https://github.com/NYRI4/Comfy
-```
-
-### BetterDiscord
-
-Go [here](https://betterdiscord.app/theme/Comfy) and save the file into your theme folder
+Download the css [here](https://github.com/hinryd/comfier-theme/blob/master/betterdiscord/comfy.theme.css) and save the file into your theme folder
 
 ## 🖌️ Customization
 Go into your theme folder and open :
 
 `comfy.theme.css` for BetterDiscord
 
-`variables.scss` for Powercord/Vizality
-
-## 🖼️ More preview
-| Status picker | User modal | Aliucord |
-| :---------: | :---------: | :---------: |
-| ![Preview](https://nyri4.github.io/Comfy/assets/status_picker.png)  | ![Preview](https://nyri4.github.io/Comfy/assets/modal.png)  | <img width=300 src="https://nyri4.github.io/Comfy/assets/preview-aliucord.png"></img> |
-
-## 📜 Credits
+## 📜 OG Credits
 
 Thanks a lot to :
 
@@ -37,4 +21,4 @@ Thanks a lot to :
 🥨 Strencher <br>
 💾 _david_
 
-and others peeps that I forgot for the help !
+and others peeps that I forgot for the help!
